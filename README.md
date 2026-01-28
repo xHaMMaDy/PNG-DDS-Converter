@@ -2,7 +2,7 @@
 
 A modern, lightweight image converter for batch converting between PNG and DDS formats. Built with Python and PySide6 featuring a sleek dark theme interface.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 ## ✨ Features
 
@@ -115,4 +115,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 Made with ❤️ using Python and PySide6
+
 
